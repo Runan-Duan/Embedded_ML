@@ -1,0 +1,11 @@
+name: eml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - torch
+  - jupyter
+  - pre-commit
